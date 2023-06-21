@@ -18,7 +18,12 @@ h1 {
 	color: rgb(105, 10, 238);
 	text-align: center;
 }
-
+img {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
 .digit {
 	font-size: 150px;
 	color: #fff;
