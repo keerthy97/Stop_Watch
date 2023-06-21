@@ -6,7 +6,7 @@ A simple stopwatch web application created using HTML, CSS, and JavaScript.
 
 The Design Stopwatch project is a web-based stopwatch application that allows users to measure time accurately. It provides a user-friendly interface with start, stop, and reset functionality. The stopwatch displays hours, minutes, seconds, and hundredths of a second. This project is suitable for anyone who needs a reliable stopwatch for various purposes, such as timing events, workouts, or experiments.
 
-![Stopwatch Demo](demo.gif)
+![Stopwatch Demo](watch.gif)
 
 ## Features
 
