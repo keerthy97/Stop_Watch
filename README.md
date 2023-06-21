@@ -1,4 +1,4 @@
-Design Stopwatch
+##Design Stopwatch
 A simple stopwatch web application created using HTML, CSS, and JavaScript.
 
 Description
