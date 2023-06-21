@@ -58,5 +58,5 @@ The Design Stopwatch project was inspired by the need for a simple and reliable 
 
 ## Support
 
-For any questions or issues regarding the Design Stopwatch project, please contact [Keerthy's Coding Ninja](mailto:keerthyscodingninja@example.com).
+For any questions or issues regarding the Design Stopwatch project, please contact [Keerthy's Coding Ninja](mailto:keerthyy97@example.com).
 
